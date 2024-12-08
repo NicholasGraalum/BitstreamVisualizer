@@ -8,5 +8,5 @@ source .venv/bin/activate
 ### if you want to us the visualizer.py in a different virtual environment the libraries I used were:
 Pillow, numpy
 ### after this you can use the visualizer script as such:
-./visualizer.py [&lessthan]name of bit file'>'
+./visualizer.py [&lt]name of bit file[&gt]
 ### The output of the file will be 4 different bitstream images, a 20x80, 128x128, 512x512 and 1024x1024
